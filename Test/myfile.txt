@@ -1,2 +1,3 @@
 This i a text file, changes to the end of file
 This is a new line
+This is in the bugFix
